@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/9.9.3/miui_GRUS_9.9.3_22e12a913a_9.0.zip
+  ROM_URL: https://www.coolapk.com/link?url=https%3A%2F%2Fhugeota.d.miui.com%2F20.3.26%2Fmiui_MIMIX2S_20.3.26_76a5fed9ab_10.0.zip
   ROM_NAME: miui GSI
   TZ: Asia/Shanghai
 
