@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/9.8.29/miui_MINote2_9.8.29_94f47c73e3_8.0.zip
+  ROM_URL: https://bigota.d.miui.com/V11.0.3.0.ODBCNXM/miui_MI5X_V11.0.3.0.ODBCNXM_704b2e39b0_8.1.zip
   ROM_NAME: miui GSI
   TZ: Asia/Shanghai
 
